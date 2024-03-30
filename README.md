@@ -42,7 +42,16 @@ The system benefits both the deaf and dumb community and individuals unfamiliar 
 ![13](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/174dc35f-e683-4bc8-9c89-1b6750d93850)
 ### **Gesture Classification**
 
-- **Convolutional Neural Network (CNN)**: Utilize CNN for gesture classification. CNN is effective in solving computer vision problems and is equipped with layers like convolution, max-pooling, and fully connected layers for feature extraction and classification.
+- **Convolutional Neural Network (CNN)**: CNN is a class of neural networks that are highly useful in solving computer vision problems. They found inspiration from the actual perception of vision that takes place in the visual cortex of our brain. They make use of a filter/kernel to scan through the entire pixel values of the image and make computations by setting appropriate weights to enable detection of a specific feature. CNN is equipped with layers like convolution layer, max pooling layer, flatten layer, dense layer, dropout layer and a fully connected neural network layer. These layers together make a very powerful tool that can identify features in an image. The starting layers detect low level features that gradually begin to detect more complex higher-level features
+
+Unlike regular Neural Networks, in the layers of CNN, the neurons are arranged in 3 dimensions: width, height, depth.
+
+The neurons in a layer will only be connected to a small region of the layer (window size) before it, instead of all of the neurons in a fully-connected manner.
+
+Moreover, the final output layer would have dimensions(number of classes), because by the end of the CNN architecture we will reduce the full image into a single vector of class scores.
+
+
+![image](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/f024254d-b2fa-4f1a-921e-5f27788eb6e7)
 
 ### **Text To Speech Translation**
 
