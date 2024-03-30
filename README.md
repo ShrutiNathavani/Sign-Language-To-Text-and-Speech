@@ -136,7 +136,6 @@ In average pooling we take average of all Values in a window pooling
 
 ---
 
-This README provides an overview of the Sign-Language-To-Text-and-Speech-Conversion project, outlining its objectives, modules, and system requirements. For further details, refer to the accompanying documentation and codebase.
 
 ## **License**
 
