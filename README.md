@@ -80,7 +80,15 @@ The system benefits both the deaf and dumb community and individuals unfamiliar 
 ![Sequence diagram](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/f633d5c0-cbbf-43d4-a628-da79a46cfa88)
 
 
+## **License**
+
+This project is licensed under the [MIT License](LICENSE).
+
+## **Acknowledgments**
+
+- Special thanks to Marwadi University for their contribution to this project.
+  I would also like to acknowledge the support and guidance provided by Dr.Prof.Nishit Kotak Sir and Prof.Chandrasinh Parmar Sir.
+
 ---
 
-This README provides an overview of the Sign-Language-To-Text-and-Speech-Conversion project, outlining its objectives, modules, and system requirements. For further details, refer to the accompanying documentation and codebase.
 
