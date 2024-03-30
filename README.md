@@ -43,9 +43,6 @@ The system benefits both the deaf and dumb community and individuals unfamiliar 
 - **Data Collection**: Gather images of different signs from various angles for sign letters A to Z.
 
 ### **Gesture Classification**
-
-
-- 
 - **MediaPipe Landmark System**: Use MediaPipe to detect hand landmarks from webcam images. Draw and connect these landmarks in a simple white image to overcome challenges related to background and lighting conditions.
 
   ![image](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/f02208e8-2554-4359-b1f3-b8124d8037ef)
