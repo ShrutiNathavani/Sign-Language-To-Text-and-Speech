@@ -30,12 +30,16 @@ The system benefits both the deaf and dumb community and individuals unfamiliar 
 - **Electromechanical Devices**: Utilize devices for precise hand configuration and position data. Although effective, this approach is costly and less user-friendly.
 - **Vision-based Methods**: Utilize computer webcams to observe hand gestures, offering a cost-effective solution for natural interaction between humans and computers.
 
+- 
+
+
 ### **Data Pre-processing and Feature Extraction**
 
 - **Hand Detection**: Employ the MediaPipe library for image processing to detect hands from webcam images.
 - **Image Processing**: Convert detected regions of interest (ROI) to grayscale images using OpenCV library. Apply Gaussian blur and thresholding techniques to enhance image quality.
 - **Data Collection**: Gather images of different signs from various angles for sign letters A to Z.
 
+![13](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/174dc35f-e683-4bc8-9c89-1b6750d93850)
 ### **Gesture Classification**
 
 - **Convolutional Neural Network (CNN)**: Utilize CNN for gesture classification. CNN is effective in solving computer vision problems and is equipped with layers like convolution, max-pooling, and fully connected layers for feature extraction and classification.
