@@ -87,7 +87,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## **Acknowledgments**
 
 - Special thanks to Marwadi University for their contribution to this project.
-  I would also like to acknowledge the support and guidance provided by Dr.Prof.Nishit Kotak Sir and Prof.Chandrasinh Parmar Sir.
+
+-  I would also like to acknowledge the support and guidance provided by Dr.Prof.Nishit Kotak Sir and Prof.Chandrasinh Parmar Sir.
 
 ---
 
