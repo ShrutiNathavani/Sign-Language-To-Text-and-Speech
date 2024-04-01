@@ -5,7 +5,8 @@
 Sign language is one of the oldest and most natural forms of language for communication. In this project, we have developed a real-time method using neural networks for finger spelling-based American Sign Language (ASL). We propose a convolutional neural network (CNN) approach to recognize hand gestures from camera images. The CNN method aims to identify hand gestures from a camera image by utilizing the position and orientation of the hand for training and testing data. The hand undergoes filtration and classification to predict the class of hand gestures, followed by training the CNN using calibrated images.
 
 **The Final Outcome Of Our Project:** 
-- `hello_there.mp4`: [Video demonstrating the project]
+
+"C:\Users\shrut\OneDrive\Desktop\Sign-Language-To-Text-and-Speech-Conversion-master\Sign Language To Text Conversion 2024-04-01 12-04-08.mp4"
 
 ## **Introduction**
 
