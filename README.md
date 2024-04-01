@@ -6,15 +6,13 @@ Sign language is one of the oldest and most natural forms of language for commun
 
 **The Final Outcome Of Our Project:** 
 
-"C:\Users\shrut\OneDrive\Desktop\Sign-Language-To-Text-and-Speech-Conversion-master\Sign Language To Text Conversion 2024-04-01 12-04-08.mp4"
+
 
 ## **Introduction**
 
 American Sign Language (ASL) serves as a predominant means of communication for individuals with communication-related disabilities such as deafness and muteness. Communication involves the exchange of thoughts and messages through various mediums, including speech, signals, behavior, and visuals. Deaf and dumb (D&M) individuals express their ideas through hand gestures, which are nonverbally exchanged messages understood through vision, known as sign language. This project aims to develop a model to recognize fingerspelling-based hand gestures, forming complete words by combining each gesture.
 
 
-
-![image](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/e9b62ed7-3c42-4768-b04c-a149a71c8d19)
 
 
 
