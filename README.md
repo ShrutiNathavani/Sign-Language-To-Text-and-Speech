@@ -42,6 +42,9 @@ The system benefits both the deaf and dumb community and individuals unfamiliar 
 - **Image Processing**: Convert detected regions of interest (ROI) to grayscale images using OpenCV library. Apply Gaussian blur and thresholding techniques to enhance image quality.
 - **Data Collection**: Gather images of different signs from various angles for sign letters A to Z.
 
+![image](https://github.com/ShrutiNathavani/Sign-Language-To-Text-and-Speech/assets/77912009/7d8fec5c-b3db-42df-bccc-7408fb6a7da6)
+
+
 ### **Gesture Classification**
 - **MediaPipe Landmark System**: Use MediaPipe to detect hand landmarks from webcam images. Draw and connect these landmarks in a simple white image to overcome challenges related to background and lighting conditions.
 
